@@ -1,1 +1,1 @@
-auth_token = "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"
+auth_token = "please enter your own auth token code from hugging face"
